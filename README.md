@@ -11,15 +11,35 @@
 - ✍️ &nbsp; Enjoys staying updated with the latest design trends and trying new technology stacks.
 - ☕ &nbsp; A firm believer that a perfect cup of coffee fuels productivity and creativity.
 
-<h3>🛠 Tech Stack</h3>
+### My tech stack
 
-- 💻 &nbsp; Python | Java | JavaScript | Dart | C++  
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio Code | Git | Eclipse
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- Frontend
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
+<!--   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>  -->
+<!--   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="javascript" width="40" height="40"/>  -->
+<!--   <img src="https://www.vectorlogo.zone/logos/facebook_relay/facebook_relay-icon.svg" alt="javascript" width="40" height="40"/>  -->
+  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
+<!--   <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css3" width="40" height="40"/> -->
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
+<!--   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>  -->
+<!--   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> -->
+<!--   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>  -->
+</p>
 
-<br>
+- Backend
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="80" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Hack_%28programming_language%29_logo.svg" alt="python" width="40" height="40"/> 
+<!--   <img src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="go" width="26" height="40"/>  -->
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> 
+<!--   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>  -->
+</p>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingukhti&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hifza Jameel's Github Stats">
 
